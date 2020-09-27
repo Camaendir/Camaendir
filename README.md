@@ -4,8 +4,4 @@ At the moment I am studying Computer Science at RWTH-Aachen University. I am alw
 
 You can contact me anytime via iwantsomethingfromyou@camaendir.de ;)
 
-
-<p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Camaendir&count_private=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Camaendir&count_private=true&compact=true" />
-</p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/?username=Camaendir&layout=compact)](https://github.com/anuraghazra/github-readme-stats)

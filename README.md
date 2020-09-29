@@ -6,6 +6,6 @@ You can contact me anytime via iwantsomethingfromyou@camaendir.de ;)
 
 
 <p style="display: flex;">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/?username=Camaendir" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camaendir&layout=compact" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/?username=Camaendir" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Camaendir&layout=compact" />
 </p>
